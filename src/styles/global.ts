@@ -55,7 +55,7 @@ a[href="https://github.com/lobehub/lobe-chat"] {
 }
 
 /* 删除使用文档链接 */
-a[href="https://lobehub.com/zh/docs/usage/start?utm_source=chat_preview"] {
+a[href="https://lobehub.com/*"] {
   display: none !important;
 }
 
@@ -68,7 +68,7 @@ a[href="https://lobehub.com/zh/docs/usage/start?utm_source=chat_preview"] {
     right: 0px;
     font-size: 20px;
     font-weight: 700;
-	opacity: 0;
+	opacity: 1;
 }
 .css-1mqleeb .css-9tjxg1.acss-x8u4sp > .layoutkit-flexbox::before {
     background: #222;
